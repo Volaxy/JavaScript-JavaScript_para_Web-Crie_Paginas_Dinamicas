@@ -52,3 +52,19 @@ URL do curso -> [JavaScript para Web - Crie Páginas Dinâmicas](https://cursos.
 
 ### 03 - Clique no Botão
 * Associar uma função para um botão.
+
+***
+
+## 03 - Listas &#x1F516;
+* Uma alternativa ao `querySelector` quando necessário buscar muitos elementos, que é o **`querySelectorAll`**, que retorna uma lista (NodeList) com todos os elementos do seletor informado evitando a repetição de código.
+* Para que serve uma referência e como declarar uma referência de valor **constante** no código.
+* A estrutura de uma lista em JavaScript e como podemos acessar os elementos a partir dos **índices** com a sintaxe do colchetes.
+
+### 01 - Lista de Elementos
+* Usar a função `querySelectorAll()` para buscar uma lista de elementos.
+
+### 02 - Referências
+* Utilizar o `const` para variáveis que não irão mudar.
+
+### 03 - Conhecendo Listas
+* Acessar elementos de uma lista utilizando `[]`.
