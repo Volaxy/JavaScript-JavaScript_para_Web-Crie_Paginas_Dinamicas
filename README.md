@@ -68,3 +68,29 @@ URL do curso -> [JavaScript para Web - Crie Páginas Dinâmicas](https://cursos.
 
 ### 03 - Conhecendo Listas
 * Acessar elementos de uma lista utilizando `[]`.
+
+***
+
+## 04 - Iterando em Listas &#x1F516;
+* Como percorrer uma lista usando a estrutura de repetição `while`, a criar referências variáveis com `let`, e como incrementar o valor de uma variável, e criar uma condição para evitar o loop infinito, também conhecemos o atributo `length` contido nas listas que nos ajudou a obter dinamicamento o valor do tamanho de uma lista.
+* Como declarar e utilizar **parâmetros** dentro de uma função que criamos, e o que é uma **função anônima** e o retorno `undefined` de uma função.
+* Como criar textos dinâmicos utilizando *`template string`* e como acessar as classes de um elemento através do atributo `classList`.
+* Como é a estrutura de repetição *`for`* e como ela pode nos ajudar com um código mais limpo, além da forma de incrementar um valor de variável com o operador `++`.
+
+### 01 - Percorrendo uma Lista
+* Usar a estrutura de repetição `while`.
+* Acessar o **console** do navegador através da palavra reservada `console`.
+    * Printar no **console** do navegador através da função `console.log()`.
+
+### 02 - Funções com Parâmetros
+* Adicionar parâmetros em uma função.
+
+### 03 - Funções Anônimas
+* Criar uma função sem nome (**função anônima**).
+
+### 04 - Textos Dinâmicos
+* Utilizar a propriedade `classList`.
+* Usar o conceito de ***template string***.
+
+### 05 - Repetição Otimizada com For
+* Usar a estrutura de repetição `for`.
