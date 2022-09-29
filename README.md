@@ -94,3 +94,28 @@ URL do curso -> [JavaScript para Web - Crie Páginas Dinâmicas](https://cursos.
 
 ### 05 - Repetição Otimizada com For
 * Usar a estrutura de repetição `for`.
+
+***
+
+## 05 - Eventos e Lógicas &#x1F516;
+* O que são eventos do teclado e como usá-los: `onkeydown` e `onkeyup`. Como adicionar e remover classes em um elemento HTML através do JavaScript, com as funções `add` e `remove` do `classList`.
+* O que é o objeto `event`, como declarar e acessar ele através do parâmetro de uma função atrelada a um evento. A estrutura condicional `if` e para que ele serve, além de conhecer o operador de igualdade `==`, estritamente igual (`===`), e o operador or (`||`).
+* A estruturas condicionais `if` e `else` juntas. O operador not equals (`!=`), operador lógico and (`&&`) e o valor `null`.
+
+### 01 - Eventos do Teclado
+* Atribuir uma função ao evento `onkeydown`.
+* Adicionar uma classe a um elemento **HTML**.
+
+### 02 - Adicionando e Removendo Classe
+* Remover uma classe **CSS** com `remove`.
+* Atribuir uma função ao evento `onkeyup`.
+
+### 03 - Condições no Código
+* Usar o parâmetro de evento para capturar o evento ocorrido.
+* Usar o operador de igualdade `===`.
+
+### 04 - Operador Lógico
+* Usar o operador `||` (*OU*).
+
+### 05 - Mais Condições
+* Tratar os possíveis erros que podem ocorrer no programa.
