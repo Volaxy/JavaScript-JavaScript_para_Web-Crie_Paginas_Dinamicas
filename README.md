@@ -10,14 +10,7 @@ URL do curso -> [JavaScript para Web - Crie Páginas Dinâmicas](https://cursos.
 
 ![JavaScript para Web - Crie Páginas Dinâmicas](https://www.alura.com.br/assets/api/share/curso-javascript-web-paginas-dinamicas.png)
 
-## Links Úteis &#x1F517;
-*
-
-## Siglas &#x1F5FA;
-*
-
-## Atalhos &#x2328;
-*
+***
 
 ## 01 - Conhecendo o JavaScript &#x1F516;
 * Linkar o **JavaScript** com o arquivo **HTML**.
@@ -119,3 +112,11 @@ URL do curso -> [JavaScript para Web - Crie Páginas Dinâmicas](https://cursos.
 
 ### 05 - Mais Condições
 * Tratar os possíveis erros que podem ocorrer no programa.
+
+***
+
+## Projects
+
+### 01 - Calculator
+
+Uma calculadora que realiza cálculos de acordo com o sinal que foi escolhido.
